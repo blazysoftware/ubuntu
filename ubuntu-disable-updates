@@ -1,0 +1,3 @@
+wget -O desativar_updates.sh "https://raw.githubusercontent.com/seu-usuario/disable-ubuntu-updates/main/desativar_updates.sh"
+chmod +x desativar_updates.sh
+sudo ./desativar_updates.sh
